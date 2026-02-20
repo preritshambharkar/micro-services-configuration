@@ -21,4 +21,5 @@ eureka:
     register-with-eureka: true
     service-url:
       defaultZone: http://localhost:8761/eureka
-4vdQdGvbbtUocwtaV3Hwnua6su13wcDO8Q9NFKtph_4gYyePIuCXx7caIzvSECXI
+
+okta.sercrt: 4vdQdGvbbtUocwtaV3Hwnua6su13wcDO8Q9NFKtph_4gYyePIuCXx7caIzvSECXI
